@@ -66,7 +66,7 @@ brew install berkeley-db4
 
 1. Clone the Litecoin Core source code:
     ```shell
-    git clone https://github.com/litecoin-project/litecoin
+    git clone https://github.com/adibakhaliza/litecoin
     cd litecoin
     ```
 

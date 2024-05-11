@@ -32,7 +32,7 @@ packages:
 - "binutils-riscv64-linux-gnu"
 - "g++-8-riscv64-linux-gnu"
 remotes:
-- "url": "https://github.com/litecoin-project/litecoin.git"
+- "url": "https://github.com/adibakhaliza/litecoin.git"
   "dir": "litecoin"
 files: []
 script: |

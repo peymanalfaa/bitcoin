@@ -7,7 +7,7 @@ In this update to Litecoin Core, Taproot has been activated, enhancing Litecoin�
 
 Litecoin Core 0.21.1 is available now, right here: <https://download.litecoin.org/litecoin-0.21.1/>.
 
-As always, we welcome the expertise of the community. To report bugs please use the issue tracker at GitHub - <https://github.com/litecoin-project/litecoin/issues > - and to get security and update notifications subscribe via <https://groups.google.com/forum/#!forum/litecoin-dev>. 
+As always, we welcome the expertise of the community. To report bugs please use the issue tracker at GitHub - <https://github.com/adibakhaliza/litecoin/issues > - and to get security and update notifications subscribe via <https://groups.google.com/forum/#!forum/litecoin-dev>. 
 
 Anyone can contribute to Litecoin Core. Please scroll down to ‘How to contribute to Litecoin Core’ for details.
 

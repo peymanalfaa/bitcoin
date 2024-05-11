@@ -24,7 +24,7 @@ packages:
 - "ca-certificates"
 - "python3"
 remotes:
-- "url": "https://github.com/litecoin-project/litecoin.git"
+- "url": "https://github.com/adibakhaliza/litecoin.git"
   "dir": "litecoin"
 files: []
 script: |

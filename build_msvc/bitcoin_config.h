@@ -247,7 +247,7 @@
 #define LT_OBJDIR ".libs/"
 
 /* Define to the address where bug reports for this package should be sent. */
-#define PACKAGE_BUGREPORT "https://github.com/litecoin-project/litecoin/issues"
+#define PACKAGE_BUGREPORT "https://github.com/adibakhaliza/litecoin/issues"
 
 /* Define to the full name of this package. */
 #define PACKAGE_NAME "Litecoin Core"

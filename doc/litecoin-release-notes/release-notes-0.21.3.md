@@ -6,7 +6,7 @@ This is a new patch version release that includes, new features and important se
 
 Please report bugs using the issue tracker at GitHub:
 
-  <https://github.com/litecoin-project/litecoin/issues>
+  <https://github.com/adibakhaliza/litecoin/issues>
 
 Notable changes
 ===============
@@ -19,7 +19,7 @@ This release contains fixes for [CVE-2023-33297](https://www.cvedetails.com/cve/
 
 New MWEB features
 --------------------------
-- `215edcf` - `1049218`: add MWEB light client p2p messages. This implements [LIP006](https://github.com/litecoin-project/lips/blob/c01068d06136fb21bf35fd6dac2977de60057714/LIP-0006.mediawiki). 
+- `215edcf` - `1049218`: add MWEB light client p2p messages. This implements [LIP006](https://github.com/adibakhaliza/lips/blob/c01068d06136fb21bf35fd6dac2977de60057714/LIP-0006.mediawiki). 
 - `4c3d4f2`: adds new NODE_MWEB_LIGHT_CLIENT service flag. Enables BIP157/158 blockfilters by default (opt-out by default). 
 
 Build changes

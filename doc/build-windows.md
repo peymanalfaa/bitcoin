@@ -72,7 +72,7 @@ If you want to build the windows installer with `make deploy` you need [NSIS](ht
 
 Acquire the source in the usual way:
 
-    git clone https://github.com/litecoin-project/litecoin.git
+    git clone https://github.com/adibakhaliza/litecoin.git
     cd litecoin
 
 ## Building for 64-bit Windows
